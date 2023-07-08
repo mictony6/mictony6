@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mictony6
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning python, c++, and java!
-- 💞️ I’m looking to collaborate on .. nothing yet but if someone asks me I'd be delighted.
+- 👋 Hi, I’m Michael Anthony Bitoon.
+- 👀 I’m interested in software and game development.
 - 📫 How to reach me ... well, I have an email: mbitoon@up.edu.ph.
 
 <!---
